@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MyGALibrary.BinaryGA">
+    <Position X="4.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAIAAAAIAABAAAAAA=</HashCode>
+      <FileName>BinaryGA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGALibrary.PermutationGA">
+    <Position X="4.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PermutationGA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGALibrary.ContinuousGA">
+    <Position X="4.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ContinuousGA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGALibrary.IntegralGA">
+    <Position X="4.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IntegralGA.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyGALibrary.GenericGASolver&lt;T&gt;">
+    <Position X="1" Y="1.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>SBIAaAAQAAAANGAQAAgsBAYEMKQOJgDQCoAOBAgAADA=</HashCode>
+      <FileName>GenericGASolver.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="MyGALibrary.OptimizationType">
+    <Position X="6.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAACAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AllEnumerations.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="MyGALibrary.SelectionMode">
+    <Position X="6.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABCAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AllEnumerations.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Delegate Name="MyGALibrary.ObjectiveFunction&lt;T&gt;">
+    <Position X="4.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAA=</HashCode>
+      <FileName>ObjectiveFunction.cs</FileName>
+    </TypeIdentifier>
+  </Delegate>
+  <Font Name="Microsoft JhengHei UI" Size="9" />
+</ClassDiagram>
